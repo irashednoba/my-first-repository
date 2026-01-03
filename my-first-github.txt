@@ -1,0 +1,10 @@
+#used only first time
+git init
+#every time added
+git add README.md
+#every time commit
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/irashednoba/my-first-repository.git
+git push -u origin main
+
